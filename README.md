@@ -2,64 +2,85 @@
 
 > 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
 
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {ERC-7702 残酷共学} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
 
 ## 介绍
 
-{残酷共学的介绍}
+5 天了解 ERC-7702, 激发想法，开发潜在生态应用
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+ERC-7702, EIP,ERC, ETHEREUM
 
 ## 面向人群
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+✅ 开发者：想深入 ERC-7702 并构建应用
+
+✅ 产品经理：探索账户抽象的商业潜力
+
+✅ 研究员：了解以太坊最新技术趋势
+
+✅ 任何对 Web3 创新感兴趣的人
 
 ## 报名时间
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-5-05}
+- 结束时间：{2025-5-11}
 
 ## 共学时间
 
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-5-12}
+- 结束时间：{2025-5-16}
 
 ## 发起人
 
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
+- 姓名：{Marcus}
+- GitHub ID：{MRzzz-cyber}
+- Telegram：{marcuszheng}
+- Email：{zqsanjingshou@gmail.com}
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
-
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+- [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+- [OP 中文力量](https://x.com/optimismzh) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/fd6ab062-09e5-4fe0-b6c4-e476e632e1d1.png" />
+- [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 1 次，需补卡
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+Telegram：https://t.me/LXDAO/24572
 
 ## 学习资料/课程安排
 
-{这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
+- **技术基础**
+    - 解读 ERC7702 提案（与ERC4337/6551对比）
+    - 关键特性：账户抽象升级、交易批处理、Gas优化等
+- **应用场景分析**
+    - 现有 钱包 /DAO/DeFi 的痛点解决方案
+    - 任务：列举 3 个潜在用例并提交报告
+- **专家分享会**
+    - 邀请专家线上答疑
+ 
+- **学习资料**
+
+https://eips.ethereum.org/EIPS/eip-7702
+
+https://hackmd.io/@colinlyguo/SyAZWMmr1x
+
+https://eips.ethereum.org/EIPS/eip-7702
+
+https://mirror.xyz/0x9FFC14AB8754E4De3b0C763F58564D60f935Ad6F/eiLgBj9iPFmy4s4bmjY2jvEW_7g8YxYMQaHvqm9Xw_o
 
 ## 共学激励
 
-{这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
-{以下是残酷共学目前已有的福利，建议保留}
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
 
-{这部分内容是直接用 markdown 格式来编写，也不是必须的，这部分是如果有信息上面模块没有覆盖到，可以写在这里}
+在 ERC-7702 残酷共学结束后，我们将开启休闲黑客松，完成 ERC-7702 残酷共学的同学都可以报名并参加
 
 ## 报名和打卡规则
 
@@ -92,22 +113,22 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 <!-- START_COMMIT_TABLE -->
 
-| Name | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Name | 5.12 | 5.13 | 5.14 | 5.15 | 5.16 | 
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |     
+|      |      |      |      |      |      |    
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |    
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |    
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |    
+|      |      |      |      |      |      |    
+|      |      |      |      |      |      |  
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |   
+|      |      |      |      |      |      |   
 
 <!-- END_COMMIT_TABLE -->
 
