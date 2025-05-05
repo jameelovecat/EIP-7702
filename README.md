@@ -22,20 +22,20 @@ EIP-7702, EIP,ERC, ETHEREUM
 
 ## 报名时间
 
-- 开始时间：{2025-05-05}
-- 结束时间：{2025-05-11}
+- 开始时间：2025-05-05
+- 结束时间：2025-05-11
 
 ## 共学时间
 
-- 开始时间：{2025-05-12}
-- 结束时间：{2025-05-16}
+- 开始时间：2025-05-12
+- 结束时间：2025-05-16
 
 ## 发起人
 
-- 姓名：{Marcus}
-- GitHub ID：{MRzzz-cyber}
-- Telegram：{marcuszheng}
-- Email：{zqsanjingshou@gmail.com}
+- 姓名：Marcus
+- GitHub ID：MRzzz-cyber
+- Telegram：marcuszheng
+- Email：zqsanjingshou@gmail.com
 
 ## 发起组织
 
