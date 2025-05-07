@@ -8,7 +8,7 @@
 
 ## 关键词
 
-EIP-7702, EIP, ERC, ETHEREUM
+EIP-7702, EIP, ERC, Ethereum
 
 ## 面向人群
 
