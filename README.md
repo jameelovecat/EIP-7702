@@ -143,7 +143,7 @@ https://mirror.xyz/0x9FFC14AB8754E4De3b0C763F58564D60f935Ad6F/eiLgBj9iPFmy4s4bmj
 <!-- STATISTICALDATA_START -->
 <!-- STATISTICALDATA_END -->
 
-| START_DATE | 2025-05-13T00:00:00+00:00 | Start time |
+| START_DATE | 2025-05-14T00:00:00+00:00 | Start time |
 | END_DATE   | 2025-05-18T23:59:59+00:00 | End time   |
 
 ![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
