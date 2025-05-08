@@ -42,7 +42,7 @@ EIP-7702, EIP, ERC, Ethereum
 - [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 - [OP 中文力量](https://x.com/optimismzh) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/fd6ab062-09e5-4fe0-b6c4-e476e632e1d1.png" />
 - [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
-- [DEFUHACKERLAB]([https://x.com/DeFiHackLabs]![DeFiHackLabs_logo_no_bg (1)](https://github.com/user-attachments/assets/eb9e228b-1b58-4210-9c7f-d7efa9d83079)
+- [DeFiHackLabs]([https://x.com/DeFiHackLabs]  [DeFiHackLabs_logo_no_bg (1)](https://github.com/user-attachments/assets/eb9e228b-1b58-4210-9c7f-d7efa9d83079)
 
 
 ## 请假规则
