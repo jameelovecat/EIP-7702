@@ -125,24 +125,7 @@ https://mirror.xyz/0x9FFC14AB8754E4De3b0C763F58564D60f935Ad6F/eiLgBj9iPFmy4s4bmj
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
-<!-- START_COMMIT_TABLE -->
-
-| Name | 5.12 | 5.13 | 5.14 | 5.15 | 5.16 | 
-| ---- | ---- | ---- | ---- | ---- | ---- | 
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |     
-|      |      |      |      |      |      |    
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |    
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |    
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |    
-|      |      |      |      |      |      |    
-|      |      |      |      |      |      |  
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |   
-|      |      |      |      |      |      |   
+<!-- START_COMMIT_TABLE --> 
 
 <!-- END_COMMIT_TABLE -->
 
