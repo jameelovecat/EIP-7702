@@ -64,13 +64,23 @@ Telegram：https://t.me/LXDAO/24572
  
 - **学习资料**
 
-https://eips.ethereum.org/EIPS/eip-7702
+EIP-7702 Attack Surfaces: What Developers Should Know
+https://www.nethermind.io/blog/eip-7702-attack-surfaces-what-developers-should-know
 
+EIP-7702: A Deep Dive into Smart EOAs with Implementation Examples
 https://hackmd.io/@colinlyguo/SyAZWMmr1x
 
+A Deep dive into EIP-7702 with best practices [影片]
+https://www.youtube.com/watch?v=uZTeYfYM6fM
+
+EIP-7702 Proposal
+
 https://eips.ethereum.org/EIPS/eip-7702
 
+Into the future with EIP 7702
 https://mirror.xyz/0x9FFC14AB8754E4De3b0C763F58564D60f935Ad6F/eiLgBj9iPFmy4s4bmjY2jvEW_7g8YxYMQaHvqm9Xw_o
+
+
 
 ## 共学激励
 
